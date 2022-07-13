@@ -1,0 +1,2 @@
+export const SET_MODAL_SEARCH = "SET_MODAL_SEARCH";
+export const SET_SONG_LIST = "SET_SONG_LIST";
